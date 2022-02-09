@@ -1,4 +1,18 @@
-# Glitch in Bio!
+
+# SlyFox Chain Mail (Landing)
+Decentralized Mailboxes for Blockchain Addresses & Hashes
+Powered By TRON | Under Development
+
+#####################################################
+
+Learn more @ Tronscend.com
+App URI: https://sly.mx/
+
+#####################################################
+
+#####################################################
+
+# Landing Page built on Glitch!
 
 Your links, your way. A link-in-bio app you can customize any way you want.
 
