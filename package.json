@@ -1,7 +1,7 @@
 {
-  "name": "glitch-in-bio",
-  "version": "0.0.3",
-  "description": "Your very own link-in-bio app.",
+  "name": "slyfox-landing",
+  "version": "1.0.8",
+  "description": "Decentralized Mailboxes For Blockchain Addresses & Hashes, Powered by TRON",
   "main": "index.html",
   "scripts": {
     "start": "vite",
@@ -26,12 +26,12 @@
     "node": "14.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-in-bio"
+    "url": "https://github.com/slydotmx/slyfox-landing.git"
   },
   "glitch": {
     "projectType": "generated_static"
   },
-  "author": "Keith Kurson <keith@glitch.com>",
+  "author": "Tronscend Foundation",
   "auto": {
     "plugins": [
       "all-contributors",
