@@ -1,20 +1,26 @@
 {
   "metaTitle": "SlyFox Chain Mail",
   "metaDescription": "Unlimited Mailboxes For Blockchain Addresses & Hashes, Powered by TRON | Under Development...",
-  "name": "SlyFox Mail",
+  "name": "SlyFox Chain Mail",
   "theme": "glitch",
   "avatarImage": "https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/Sly_Logo_ALT_800px.png?v=1644423701262",
   "links": [
     {
-      "url": "https://glitch.new/links",
+      "url": "https://tronscend.com",
       "text": "At Tronscend, we build for a future where digital communication is decentralized. With the advent of blockchain and the TRON network that future is now.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "img":"https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/android-chrome-512x512.png?v=1644423045869",
       "altText": "Glitch blue generative art"
     },
     {
       "url": "https://tronscan.org/#/token20/TRVGX5wYtmHPrfdqHVrhs8kb5jD4mvwxCP",
       "text": "The SlyFox Mail ecosystem will launch with the presale of the $FOX TRC-20 token. Track it on Tronscan.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img":"https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/android-chrome-512x512.png?v=1644423045869"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.app.tronscan132&hl=en_CA&gl=US",
+      "text": "DOWNLOAD TRONSCAN EXPLORER ",
+      "img":"https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/share_logo.png?v=1644436325961",
+      "altText": "TRONSCAN Block Explorer Android App"
     }
   ],
   "social": {
