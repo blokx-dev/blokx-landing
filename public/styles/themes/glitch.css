@@ -29,7 +29,7 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
   --font-family-list: Menlo, Consolas, Monaco, "Lucida Console", monospace;
 }
 body {
-  background: fixed linear-gradient(0deg, #D7F5EF, #9480FF);
+  background: fixed linear-gradient(0deg, #21416E, #183153);
 }
 
 ul.link-list li a {
