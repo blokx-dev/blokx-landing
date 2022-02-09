@@ -19,8 +19,8 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
 }
 
 :root {
-  --color-bg: #9480FF;
-  --color-bg-alt: #D7F5EF;
+  --color-bg: #FFD662;
+  --color-bg-alt: #183153;
   --color-text-main: #000000;
   --color-primary: #AFECE0;
   --theme-color-title: #FFFFFF;
@@ -34,7 +34,7 @@ body {
 
 ul.link-list li a {
   border-radius: 3px;
-  background: rgba(193,202,242,0.3);
+  background: rgba(255,214,98,1);
 }
 ul.link-list li a:link,
 ul.link-list li a:visited {
