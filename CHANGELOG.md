@@ -1,3 +1,12 @@
+
+## Branch: Version 1.0.8
+
+Pre-publication updates
+
+## Branch: Version 1.0.0
+
+Branched to slyfox-landing
+
 ## Version 0.0.2 
 
 **Released 30th November 2021**
