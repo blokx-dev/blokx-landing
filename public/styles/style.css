@@ -74,10 +74,13 @@ body {
   padding: 1rem 0 0.75rem 0;
   width: 100%;
   flex-wrap: wrap;
-  border-top: 4px solid #fff;
+  border-top: 4px solid #ffffff;
 }
 .footer a:hover, .footer a:focus {
   background: var(--color-primary);
+}
+.tagline {
+  font-size: clamp(1rem, 0.9250rem + 0.3333vw, 1.1rem);
 }
 .footer .tagline {
   padding: 0.25rem 1rem 1rem;
@@ -99,7 +102,7 @@ body {
   box-sizing: border-box;
   border-radius: 4px;
   text-decoration: none;
-  color: #000;
+  color: #000000;
   white-space: nowrap;
   margin-left: auto;
   margin-right: 1rem;
@@ -112,9 +115,7 @@ body {
 .btn--remix:hover, .btn--remix:focus {
   background-color: #D0FFF1;
 }
-.tagline {
-  font-size: clamp(1rem, 0.9250rem + 0.3333vw, 1.1rem);
-}
+
 
 /* Typography */
 p {
@@ -200,7 +201,7 @@ ul.link-list li {
   min-width: 100%;
   text-align: center;
   margin: 1rem auto;
-  font-size: clamp(0.7rem, 0.3250rem + 1.6667vw, 1.2rem);
+  font-size: clamp(0.8rem, 0.33rem + 1.6667vw, 1.3rem);
 }
 ul.link-list li a {
   min-height: 5.5em;

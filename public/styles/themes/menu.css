@@ -6,8 +6,8 @@ Select your chosen CSS by adding the theme name (e.g. menu) in settings.json
 ******************************************************************************/
 
 :root {
-  --color-bg: var(--glitch-blue-light);
-  --color-text-main: var(--glitch-blue-light);
+  --color-bg: var(--glitch-yellow-light);
+  --color-text-main: var(--glitch-yellow-light);
 }
 body {
   background-image: url("https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fbgmenu.png?v=1634314325046");
@@ -16,6 +16,7 @@ body {
 ul.link-list li a {
   display: flex;
 }
+
 ul.link-list li a:link,
 ul.link-list li a:visited {
   background-color: var(--color-primary);
