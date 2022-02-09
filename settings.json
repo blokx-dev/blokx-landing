@@ -12,33 +12,29 @@
       "altText": "Glitch blue generative art"
     },
     {
-      "url": "https://sly.mx/",
-      "text": "Receive Emails & Files Discretely (Sly.MX / Foxx.ML)",
-      "img": ""
-    },
-    {
       "url": "https://tronscan.org/#/token20/TRVGX5wYtmHPrfdqHVrhs8kb5jD4mvwxCP",
       "text": "The SlyFox Mail ecosystem will launch with the presale of the $FOX TRC-20 token. Track it on Tronscan.",
       "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
+    "glitch": "",
     "spotify": "",
     "substack": "",
-    "dev": "https://dev.to/glitch",
+    "dev": "https://t.me/slydotmx/",
     "facebook": "",
-    "github": "https://github.com/glitchdotcom",
+    "github": "https://github.com/slydotmx",
     "gitlab": "",
     "hashnode": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
+    "linkedin": "https://www.linkedin.com/company/slymx/",
     "medium": "",
     "patreon": "",
     "pinterest": "",
-    "twitter": "https://twitter.com/glitch",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
+    "twitter": "https://twitter.com/slydotmx/",
+    "youtube": "",
     "twitch": "",
+    "link":"",
     "tiktok": "",
     "podcast": "",
     "soundcloud": "",
@@ -46,6 +42,6 @@
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
-    "email": "support@glitch.com"
+    "email": "team@tronscend.com"
   }
 }
