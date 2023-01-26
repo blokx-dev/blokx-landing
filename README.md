@@ -1,18 +1,18 @@
 
-# SlyFox Chain Mail (Landing)
-Decentralized Mailboxes for Blockchain Addresses & Hashes
-Powered By TRON | Under Development
+# Blokx.Dev (Landing)
+Android & iOS Applications for Blockchains and Cryptocurrencies
+Powered By Web3 | Under Development
 
 #####################################################
 
-Learn more @ Tronscend.com
-App URI: https://sly.mx/
+Learn more @ Blokx.DEV
+App URI: https://blokx.dev/
 
 #####################################################
 
 #####################################################
 
-# Landing Page built on Glitch!
+# This webapp was built on Glitch!
 
 Your links, your way. A link-in-bio app you can customize any way you want.
 
