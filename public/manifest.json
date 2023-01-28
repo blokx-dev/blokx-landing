@@ -1,23 +1,23 @@
 {
-  "name": "SlyFox",
-  "short_name": "SlyFox Chain Mail",
-  "description": "Decentralized Mailboxes for Blockchain Addresses",
+  "name": "Blokx.DEV",
+  "short_name": "Blokx",
+  "description": "Building A Decentralized & Transparent Future One App At A Time",
   "icons": [
     {
       "sizes": "800x800",
       "type": "image/png",
-      "src": "https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/Sly_Logo_ALT_800px.png?v=1644423701262",
+      "src": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-resized-800px.png?v=1674883942884",
       "purpose": "any"
     },
     {
       "sizes": "180x180",
       "type": "image/png",
-      "src": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Ftouch-icon.png?v=1633521972305",
+      "src": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-resized-180px.png?v=1674883936547",
       "purpose": "maskable"
     }
   ],
   "display": "standalone",
-  "background_color": "#1F2131",
-  "theme_color": "#1F2131",
+  "background_color": "#08D9D6",
+  "theme_color": "#08D9D6",
   "start_url": "/"
 }

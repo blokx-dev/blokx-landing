@@ -1,7 +1,7 @@
 {
   "name": "blokx-landing",
   "version": "1.0.8",
-  "description": "Decentralized Mailboxes For Blockchain Addresses & Hashes, Powered by TRON",
+  "description": "Building A Decentralized & Transparent Future One App At A Time",
   "main": "index.html",
   "scripts": {
     "start": "vite",
