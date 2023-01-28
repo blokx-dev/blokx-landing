@@ -1,43 +1,43 @@
 {
   "metaTitle": "Blokx Development Company",
-  "metaDescription": "Android and iOS apps for Blockchains and Crytocurrencies. Powered by Web3 | Under Development...",
+  "metaDescription": "Building A Decentralized & Transparent Future One App At A Time...",
   "name": "Blokx",
   "theme": "blokx",
-  "avatarImage": "https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/Sly_Logo_ALT_800px.png?v=1644423701262",
+  "avatarImage": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-whitebg.png?v=1674882063815",
   "links": [
     {
-      "url": "https://tronscend.com",
-      "text": "At Tronscend, we build for a future where digital communication is decentralized. With the advent of blockchain and the TRON network that future is now.",
-      "img":"https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/android-chrome-512x512.png?v=1644423045869",
-      "altText": "Tronscend is Decentralizing Digital Communication"
+      "url": "https://blokx.dev/",
+      "text": "At Blokx, we build functional applications for a decentralized and transparent future. With the advent of blockchain, that future is now.",
+      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-whitebg.png?v=1674882063815",
+      "altText": "Blokx builds functional applications for a decentralized and transparent future."
     },
     {
-      "url": "https://tronscan.org/#/token20/TRVGX5wYtmHPrfdqHVrhs8kb5jD4mvwxCP",
-      "text": "The SlyFox Blockchain Mail Transfer ecosystem will launch with the presale of the $FOX TRC-20 token. Track it on Tronscan.",
-      "img":"https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/android-chrome-512x512.png?v=1644423045869"
+      "url": "https://g.dev/blokx",
+      "text": "Looking for mobile blockchain explorers? Visit our Android Developers Page!",
+      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-whitebg.png?v=1674882063815"
     },
     {
-      "url": "https://play.google.com/store/apps/details?id=com.app.tronscan132&hl=en_CA&gl=US",
-      "text": "DOWNLOAD TRONSCAN EXPLORER ",
+      "url": "https://play.google.com/store/apps/details?id=com.bdc.etherscan.app&hl=en_CA&gl=US",
+      "text": "DOWNLOAD ETHERSCAN EXPLORER",
       "img":"https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/share_logo.png?v=1644436325961",
-      "altText": "TRONSCAN Block Explorer Android App"
+      "altText": "Download our Etherscan Explorer Android App"
     }
   ],
   "social": {
     "glitch": "",
     "spotify": "",
     "substack": "",
-    "dev": "https://t.me/slydotmx/",
+    "dev": "https://t.me/blokx/",
     "facebook": "",
-    "github": "https://github.com/slydotmx",
+    "github": "https://github.com/blokx-dev",
     "gitlab": "",
     "hashnode": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/slymx/",
+    "linkedin": "https://www.linkedin.com/company/blokx/",
     "medium": "",
     "patreon": "",
     "pinterest": "",
-    "twitter": "https://twitter.com/slydotmx/",
+    "twitter": "https://twitter.com/blokxdotdev/",
     "youtube": "",
     "twitch": "",
     "link":"",
@@ -48,6 +48,6 @@
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
-    "email": "team@tronscend.com"
+    "email": "team@blokx.dev"
   }
 }

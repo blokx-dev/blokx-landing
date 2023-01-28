@@ -127,9 +127,8 @@ a:not(.btn--remix):visited {
   margin-right: 0.25rem;
 }
 .btn--remix:hover, .btn--remix:focus {
-  background-color: #4CFABA;
+  background: #9BF0FD;
   border: 2px solid white;
-
 }
 
 

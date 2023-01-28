@@ -20,19 +20,19 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
 
 :root {
   --color-bg: #1A1F38;
-  --color-bg-alt: #25C597;
+  --color-bg-alt: #08D9D6;
   --color-text-main: #000000;
-  --color-primary: #25C597;
-  --theme-color-title: #25C597;
+  --color-primary: #08D9D6;
+  --theme-color-title: #08D9D6;
   --font-family: "HK Grotesk";
   --font-family-header: "Bai Jamjuree", sans-serif;
   --font-family-list: Menlo, Consolas, Monaco, "Lucida Console", monospace;
 }
 
 body {
-  background: fixed linear-gradient(90deg, #25C597 -11%, #1A1F38 88%, #1A1F38 100%);
-  background: fixed -webkit-linear-gradient(90deg, #25C597 -11%, #1A1F38 88%, #1A1F38 100%);
-  background: fixed -moz-linear-gradient(90deg, #25C597 -11%, #1A1F38 88%, #1A1F38 100%);
+  background: fixed linear-gradient(110deg, #08D9D6 25%, #1A1F38 100%);
+  background: fixed -webkit-linear-gradient(110deg, #08D9D6 25%, #1A1F38 100%);
+  background: fixed -moz-linear-gradient(110deg, #08D9D6 25%, #1A1F38 100%);
 }
 
 ul.link-list li a {
@@ -47,8 +47,8 @@ ul.link-list li a:visited {
   justify-content: space-around;
 }
 ul.link-list li a:hover, ul.link-list li a:focus {
-  border: 5px solid var(--theme-color-title);
-  background: #4CFABA;
+  border: 5px solid var(--color-bg);
+  background: #9BF0FD;
 }
 ul.link-list li a img {
   display: none;
