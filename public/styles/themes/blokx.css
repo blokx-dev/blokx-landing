@@ -1,0 +1,67 @@
+/******************************************************************************
+TIP: Glitch theme displays list of links from settings.json links array
+
+Edit / copy or create your own CSS file in public/styles/themes
+Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
+******************************************************************************/
+
+/* Fonts */
+@font-face {
+  font-family: HK Grotesk;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+    format("opentype");
+}
+@font-face {
+  font-family: HK Grotesk;
+  font-weight: bold;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+    format("opentype");
+}
+
+:root {
+  --color-bg: #1A1F38;
+  --color-bg-alt: #25C597;
+  --color-text-main: #000000;
+  --color-primary: #25C597;
+  --theme-color-title: #25C597;
+  --font-family: "HK Grotesk";
+  --font-family-header: "Bai Jamjuree", sans-serif;
+  --font-family-list: Menlo, Consolas, Monaco, "Lucida Console", monospace;
+}
+
+body {
+  background: fixed linear-gradient(90deg, #25C597 -11%, #1A1F38 88%, #1A1F38 100%);
+  background: fixed -webkit-linear-gradient(90deg, #25C597 -11%, #1A1F38 88%, #1A1F38 100%);
+  background: fixed -moz-linear-gradient(90deg, #25C597 -11%, #1A1F38 88%, #1A1F38 100%);
+}
+
+ul.link-list li a {
+  border-radius: 11px;
+  background: var(--color-primary);
+  box-sizing: border-box;
+}
+
+ul.link-list li a:link,
+ul.link-list li a:visited {
+  border: 5px solid white;
+  justify-content: space-around;
+}
+ul.link-list li a:hover, ul.link-list li a:focus {
+  border: 5px solid var(--theme-color-title);
+  background: #4CFABA;
+}
+ul.link-list li a img {
+  display: none;
+}
+
+.social-profile-icon path {
+  fill: var(--color-bg);
+}
+h1 {
+  color: var(--theme-color-title);
+}
+h1::after {
+  content: attr(data-end) ;
+  color: white ;
+  padding-left: 2px;
+}

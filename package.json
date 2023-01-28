@@ -1,5 +1,5 @@
 {
-  "name": "slyfox-landing",
+  "name": "blokx-landing",
   "version": "1.0.8",
   "description": "Decentralized Mailboxes For Blockchain Addresses & Hashes, Powered by TRON",
   "main": "index.html",
@@ -26,12 +26,12 @@
     "node": "14.x"
   },
   "repository": {
-    "url": "https://github.com/slydotmx/slyfox-landing.git"
+    "url": "https://github.com/blokx-dev/blokx-landing.git"
   },
   "glitch": {
     "projectType": "generated_static"
   },
-  "author": "Tronscend Foundation",
+  "author": "Blokx Development Co.",
   "auto": {
     "plugins": [
       "all-contributors",
