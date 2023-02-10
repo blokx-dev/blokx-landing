@@ -1,12 +1,12 @@
 {
   "name": "Blokx.DEV",
   "short_name": "Blokx",
-  "description": "Building A Decentralized & Transparent Future One App At A Time",
+  "description": "Building Apps For A Decentralized, Transparent & Sustainable Tomorrow",
   "icons": [
     {
       "sizes": "800x800",
       "type": "image/png",
-      "src": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-resized-800px.png?v=1674883942884",
+      "src": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-800px.png?v=1676049231963",
       "purpose": "any"
     },
     {

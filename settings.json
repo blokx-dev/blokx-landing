@@ -1,20 +1,20 @@
 {
   "metaTitle": "Blokx Development Company",
-  "metaDescription": "Building A Decentralized & Transparent Future One App At A Time...",
+  "metaDescription": "Building Applications For A Decentralized & Transparent Tomorrow...",
   "name": "Blokx",
   "theme": "blokx",
-  "avatarImage": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-whitebg.png?v=1674882063815",
+  "avatarImage": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-640px.png?v=1676048872873",
   "links": [
     {
-      "url": "https://blokx.dev/",
-      "text": "At Blokx, we build functional applications for a decentralized and transparent future. With the advent of blockchain, that future is now.",
-      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-whitebg.png?v=1674882063815",
+      "url": "https://flow.page/blokx",
+      "text": "At Blokx, we build functional applications for a future that is decentralized, transparent and sustainable. With the advent of blockchain, that future is now.",
+      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-640px.png?v=1676048872873",
       "altText": "Blokx builds functional applications for a decentralized and transparent future."
     },
     {
-      "url": "https://g.dev/blokx",
-      "text": "Looking for mobile blockchain explorers? Visit our Android Developers Page!",
-      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-whitebg.png?v=1674882063815"
+      "url": "https://play.google.com/store/apps/dev?id=8878695474933625157",
+      "text": "Looking for our mobile apps? Visit our Play Store profile!",
+      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-640px.png?v=1676048872873"
     },
     {
       "url": "https://play.google.com/store/apps/details?id=com.bdc.etherscan.app&hl=en_CA&gl=US",
@@ -24,23 +24,25 @@
     }
   ],
   "social": {
+    "telegram": "https://t.me/blokxdotdev",
     "glitch": "",
     "spotify": "",
     "substack": "",
-    "dev": "https://t.me/blokx/",
     "facebook": "",
+    "dev": "",
+    "gdev": "https://g.dev/blokx",
     "github": "https://github.com/blokx-dev",
-    "gitlab": "",
+    "gitlab": "https://flow.page/blokx",
     "hashnode": "",
     "instagram": "",
     "linkedin": "https://www.linkedin.com/company/blokx/",
     "medium": "",
     "patreon": "",
     "pinterest": "",
-    "twitter": "https://twitter.com/blokxdotdev/",
+    "twitter": "https://twitter.com/blokxdev/",
     "youtube": "",
     "twitch": "",
-    "link":"",
+    "link":"https://flow.page/blokx",
     "tiktok": "",
     "podcast": "",
     "soundcloud": "",
