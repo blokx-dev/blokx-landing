@@ -1,4 +1,8 @@
 
+## Branch: Version 1.1.1
+
+From Blokx to Blokz (Rebrand)
+
 ## Branch: Version 1.0.8
 
 Pre-publication updates

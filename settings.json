@@ -3,35 +3,35 @@
   "metaDescription": "Expanding Access to Functional Blockchain Applications",
   "name": "Blokz",
   "theme": "blokx",
-  "avatarImage": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-640px.png?v=1676048872873",
+  "avatarImage": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokz-logo-circle-blue-640px.png?v=1676232520196",
   "links": [
     {
       "url": "https://flow.page/blokz",
-      "text": "At Blokx, we build functional applications for a future that is decentralized, transparent and sustainable. With the advent of blockchain, that future is now.",
-      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-640px.png?v=1676048872873",
-      "altText": "Blokx builds functional applications for a decentralized and transparent future."
+      "text": "At Blokz, we expand access to functional applications and drive the adoption of blockchains, cryptocurrencies and web3 technologies in favor of a future that is decentralized, transparent and sustainable.",
+      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokz-logo-circle-blue-640px.png?v=1676232520196",
+      "altText": "Blokz builds functional applications for a decentralized and transparent future."
     },
     {
       "url": "https://play.google.com/store/apps/dev?id=8878695474933625157",
       "text": "Looking for our mobile apps? Visit our Play Store profile!",
-      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-640px.png?v=1676048872873"
+      "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokz-logo-circle-blue-640px.png?v=1676232520196"
     },
     {
       "url": "https://play.google.com/store/apps/details?id=com.bdc.blockscan.app",
       "text": "DOWNLOAD BLOCKSCAN EXPLORER",
       "img":"https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/share_logo.png?v=1644436325961",
-      "altText": "Download our Etherscan Explorer Android App"
+      "altText": "Download Blockscan Universal Explorer for Android"
     }
   ],
   "social": {
-    "telegram": "https://t.me/blokzdotdev",
+    "telegram": "https://t.me/blokzdev",
     "glitch": "",
     "spotify": "",
     "substack": "",
     "facebook": "",
     "dev": "",
     "gdev": "https://g.dev/blokz",
-    "github": "https://github.com/blokx-dev",
+    "github": "https://github.com/blokzdev",
     "gitlab": "https://flow.page/blokz",
     "hashnode": "",
     "instagram": "",

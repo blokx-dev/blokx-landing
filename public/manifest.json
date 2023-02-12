@@ -1,18 +1,18 @@
 {
-  "name": "Blokx.DEV",
-  "short_name": "Blokx",
+  "name": "Blokz.DEV",
+  "short_name": "Blokz",
   "description": "Building Apps For A Decentralized, Transparent & Sustainable Tomorrow",
   "icons": [
     {
       "sizes": "800x800",
       "type": "image/png",
-      "src": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-800px.png?v=1676049231963",
+      "src": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokz-logo-circle-blue-800px.png?v=1676233151869",
       "purpose": "any"
     },
     {
       "sizes": "180x180",
       "type": "image/png",
-      "src": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/logo-hexa-resized-180px.png?v=1674883936547",
+      "src": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokz-logo-circle-black-180px.png?v=1676233302247",
       "purpose": "maskable"
     }
   ],
