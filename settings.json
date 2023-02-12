@@ -1,12 +1,12 @@
 {
-  "metaTitle": "Blokx Development Company",
-  "metaDescription": "Building Applications For A Decentralized & Transparent Tomorrow...",
-  "name": "Blokx",
+  "metaTitle": "Blokz Development Company",
+  "metaDescription": "Expanding Access to Functional Blockchain Applications",
+  "name": "Blokz",
   "theme": "blokx",
   "avatarImage": "https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-640px.png?v=1676048872873",
   "links": [
     {
-      "url": "https://flow.page/blokx",
+      "url": "https://flow.page/blokz",
       "text": "At Blokx, we build functional applications for a future that is decentralized, transparent and sustainable. With the advent of blockchain, that future is now.",
       "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-640px.png?v=1676048872873",
       "altText": "Blokx builds functional applications for a decentralized and transparent future."
@@ -17,32 +17,32 @@
       "img":"https://cdn.glitch.global/d470e077-214b-4bf9-ac27-4933bce2a4c9/blokx-logo-circle-blue-640px.png?v=1676048872873"
     },
     {
-      "url": "https://play.google.com/store/apps/details?id=com.bdc.etherscan.app&hl=en_CA&gl=US",
-      "text": "DOWNLOAD ETHERSCAN EXPLORER",
+      "url": "https://play.google.com/store/apps/details?id=com.bdc.blockscan.app",
+      "text": "DOWNLOAD BLOCKSCAN EXPLORER",
       "img":"https://cdn.glitch.global/8ee58cdd-00f3-487a-9396-1d0015adb32f/share_logo.png?v=1644436325961",
       "altText": "Download our Etherscan Explorer Android App"
     }
   ],
   "social": {
-    "telegram": "https://t.me/blokxdotdev",
+    "telegram": "https://t.me/blokzdotdev",
     "glitch": "",
     "spotify": "",
     "substack": "",
     "facebook": "",
     "dev": "",
-    "gdev": "https://g.dev/blokx",
+    "gdev": "https://g.dev/blokz",
     "github": "https://github.com/blokx-dev",
-    "gitlab": "https://flow.page/blokx",
+    "gitlab": "https://flow.page/blokz",
     "hashnode": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/blokx/",
+    "linkedin": "https://www.linkedin.com/company/blokz/",
     "medium": "",
     "patreon": "",
     "pinterest": "",
-    "twitter": "https://twitter.com/blokxdev/",
+    "twitter": "https://twitter.com/blokzdev/",
     "youtube": "",
     "twitch": "",
-    "link":"https://flow.page/blokx",
+    "link":"https://flow.page/blokz",
     "tiktok": "",
     "podcast": "",
     "soundcloud": "",
@@ -50,6 +50,6 @@
     "mastodon": "",
     "stackoverflow": "",
     "kofi": "",
-    "email": "team@blokx.dev"
+    "email": "team@blokz.dev"
   }
 }
