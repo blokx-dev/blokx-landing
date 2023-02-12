@@ -1,12 +1,17 @@
 
-# Blokx.Dev (Landing)
-Android & iOS Applications for Blockchains and Cryptocurrencies
-Powered By Web3 | Under Development
+# Blokz.Dev (Landing)
+Expanding access to blockchain applications in support of a sustainable, decentralized & transparent tomorrow...
+
+
 
 #####################################################
 
-Learn more @ Blokx.DEV
-App URI: https://blokx.dev/
+At Blokz, we drive adoption of blockchain, cryptocurrency and web3 applications primarily among Android users.
+
+Learn more @ flow.page/blokz
+App URI: https://blokz.dev/
+
+(Powered By Glitch | Under Development)
 
 #####################################################
 
